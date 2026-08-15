@@ -4,4 +4,4 @@ STEP 2: Go to "Properties" for Scrap Mechanic, find "Launch Options" and type "-
 
 IF ISSUES ARISE:
 1. Ensure you restart your game if you updated the SurvivalGame.Lua while you were still in the game.
-2. Verify integrity of game files
+2. Verify integrity of game files, then reinstall.
